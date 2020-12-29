@@ -1,0 +1,93 @@
+[1mdiff --git a/0git.docx b/0git.docx[m
+[1mindex 2e12e62..aa81fc2 100644[m
+[1m--- a/0git.docx[m
+[1m+++ b/0git.docx[m
+[36m@@ -1,5 +1,5 @@[m
+[31m-[m
+[31m-Developer@DESKTOP-1QKM5PF MINGW64 /d/git test/Websites1/example-repo1 (master)[m
+[32m+[m[32m1[m
+[32m+[m[32mDeveliper@DESKTOP-1QKM5PF MINGW64 /d/git test/Websites1/example-repo1 (master)[m
+ $ cd[m
+ [m
+ Developer@DESKTOP-1QKM5PF MINGW64 ~[m
+[36m@@ -126,3 +126,80 @@[m [m$ git clone https://github.com/ashwinder-garcha/example-repo1.git example-repo1[m
+ Cloning into 'example-repo1'...[m
+ warning: You appear to have cloned an empty repository.[m
+ [m
+[32m+[m
+[32m+[m
+[32m+[m
+[32m+[m
+[32m+[m
+[32m+[m
+[32m+[m
+[32m+[m
+[32m+[m
+[32m+[m
+[32m+[m
+[32m+[m
+[32m+[m
+[32m+[m
+[32m+[m
+[32m+[m
+[32m+[m
+[32m+[m
+[32m+[m[32mIf u changed something in file you can check by git diff and file name[m
+[32m+[m
+[32m+[m[32mDeveloper@DESKTOP-1QKM5PF MINGW64 /d/git test/website3/test3 (master)[m
+[32m+[m[32m$ git diff 0git.docx[m
+[32m+[m[32mdiff --git a/0git.docx b/0git.docx[m
+[32m+[m[32mindex 2e12e62..62b4903 100644[m
+[32m+[m[32m--- a/0git.docx[m
+[32m+[m[32m+++ b/0git.docx[m
+[32m+[m[32m@@ -1,5 +1,5 @@[m
+[32m+[m[32m-[m
+[32m+[m[32m-Developer@DESKTOP-1QKM5PF MINGW64 /d/git test/Websites1/example-repo1 (master)[m
+[32m+[m[32m+1[m
+[32m+[m[32m+Develiper@DESKTOP-1QKM5PF MINGW64 /d/git test/Websites1/example-repo1 (master)[m
+[32m+[m[32m $ cd[m
+[32m+[m
+[32m+[m[32m Developer@DESKTOP-1QKM5PF MINGW64 ~[m
+[32m+[m[32m@@ -126,3 +126,38 @@ $ git clone https://github.com/ashwinder-garcha/example-repo1.git example-repo1[m
+[32m+[m[32m Cloning into 'example-repo1'...[m
+[32m+[m[32m warning: You appear to have cloned an empty repository.[m
+[32m+[m
+[32m+[m[32m+[m
+[32m+[m[32m+[m
+[32m+[m[32m+[m
+[32m+[m[32m+[m
+[32m+[m[32m+[m
+[32m+[m[32m+[m
+[32m+[m[32m+[m
+[32m+[m[32m+[m
+[32m+[m[32m+[m
+[32m+[m[32m+[m
+[32m+[m[32m+[m
+[32m+[m[32m+[m
+[32m+[m[32m+[m
+[32m+[m[32m+[m
+[32m+[m[32m+[m
+[32m+[m[32m+[m
+[32m+[m[32m+[m
+[32m+[m[32m+[m
+[32m+[m[32m+If u changed something in file you can check by git diff and file name[m
+[32m+[m[32m+[m
+[32m+[m[32m+Developer@DESKTOP-1QKM5PF MINGW64 /d/git test/website3/test3 (master)[m
+[32m+[m[32m+$ git diff 0git.docx[m
+[32m+[m[32m+diff --git a/0git.docx b/0git.docx[m
+[32m+[m[32m+index 2e12e62..9c42436 100644[m
+[32m+[m[32m+--- a/0git.docx[m
+[32m+[m[32m++++ b/0git.docx[m
+[32m+[m[32m+@@ -1,5 +1,5 @@[m
+[32m+[m[32m+-[m
+[32m+[m[32m+-Developer@DESKTOP-1QKM5PF MINGW64 /d/git test/Websites1/example-repo1 (master)[m
+[32m+[m[32m++1[m
+[32m+[m[32m++Develiper@DESKTOP-1QKM5PF MINGW64 /d/git test/Websites1/example-repo1 (master)[m
+[32m+[m[32m+ $ cd[m
+[32m+[m[32m+[m
+[32m+[m[32m+ Developer@DESKTOP-1QKM5PF MINGW64 ~[m
+[32m+[m[32m+[m
+[32m+[m
+[32m+[m[32mDeveloper@DESKTOP-1QKM5PF MINGW64 /d/git test/website3/test3 (master)[m
+[32m+[m[32m$[m
+[32m+[m
